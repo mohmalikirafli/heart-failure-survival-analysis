@@ -1,0 +1,13 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*
+
+# Stata-generated binary data
+04_Output/*.dta
+
+# Temporary files
+*.tmp
+*.bak
