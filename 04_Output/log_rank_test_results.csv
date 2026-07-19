@@ -1,0 +1,10 @@
+predictor,chi_square,p_value,significant_0_05
+anaemia,2.73,0.0987,No
+diabetes,0.04,0.8405,No
+high_blood_pressure,4.41,0.0358,Yes
+sex,0.00,0.9498,No
+smoking,0.00,0.9640,No
+age_ge60,8.56,0.0034,Yes
+ef_low40,9.47,0.0021,Yes
+creatinine_high,39.61,<0.001,Yes
+sodium_low135,15.65,0.0001,Yes
