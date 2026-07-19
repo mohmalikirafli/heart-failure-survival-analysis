@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite both this project and the original UCI dataset."
+title: "Heart Failure Survival Analysis"
+type: software
+authors:
+  - family-names: "Rafli"
+    given-names: "Mohammad Maliki"
+repository-code: "https://github.com/mohmalikirafli/heart-failure-survival-analysis"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-19
+keywords:
+  - survival analysis
+  - Kaplan-Meier
+  - Cox proportional hazards
+  - heart failure
+  - biostatistics
+  - Stata
+references:
+  - type: dataset
+    title: "Heart Failure Clinical Records"
+    publisher:
+      name: "UCI Machine Learning Repository"
+    year: 2020
+    doi: "10.24432/C5Z89R"
+  - type: article
+    title: "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone"
+    authors:
+      - family-names: "Chicco"
+        given-names: "Davide"
+      - family-names: "Jurman"
+        given-names: "Giuseppe"
+    journal: "BMC Medical Informatics and Decision Making"
+    volume: 20
+    year: 2020
+    doi: "10.1186/s12911-020-1023-5"
